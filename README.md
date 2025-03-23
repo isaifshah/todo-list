@@ -16,7 +16,7 @@ A modern Todo List web application built with React and Vite, featuring full CRU
   - Gradient backgrounds 🌈
   - Smooth hover animations ✨
   - Mobile-responsive design 📱
-- **Persistence**: Local storage integration (optional)
+- **Persistence**: Local storage integration 
 ## Technologies 💻
 
 
