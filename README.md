@@ -1,13 +1,46 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Todo List Application 🚀
 
-Currently, two official plugins are available:
+A modern Todo List web application built with React and Vite, featuring full CRUD operations with elegant animations and responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+## Features ✨
+
+- **Add Tasks**: Quick input with validation
+- **Complete Tasks**: Toggle completion status
+- **Edit Tasks**: Inline editing with instant save
+- **Delete Tasks**: Single-click removal
+- **Modern UI**: 
+  - Gradient backgrounds 🌈
+  - Smooth hover animations ✨
+  - Mobile-responsive design 📱
+- **Persistence**: Local storage integration (optional)
+## Technologies 💻
+
+
+- **Frontend**: React 19
+- **Build Tool**: Vite
+- **Styling**: Pure CSS
+
+
+
+## Installation ⚙️
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/isaifshah/todo-list.git
+    ```
+
+2. Install Dependencies: 
+    ```bash
+   npm install
+    ```
+3. Start development server:
+    ```bash
+   npm run dev
+     ```
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/aa318ff4-d302-4ebb-9e77-6ffe4f60c7da)
